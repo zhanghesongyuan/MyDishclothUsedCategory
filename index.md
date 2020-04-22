@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的刷碗抹布分类使用记录
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyDishclothUsedCategory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们日常生活中，经常会用到各种刷碗的抹布，每种抹布的功能也会大不相同。例如吸水性好的抹布适合刷碗后用来擦干水分，保持碗筷的干燥，可以有效防止发霉细菌滋生。我们可以将家里的抹布分类记录起来，包括抹布的种类，使用次数，最近一次的清洗情况等详细信息，帮助我们更加方便和高效的使用刷碗抹布。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyDishclothUsedCategory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
